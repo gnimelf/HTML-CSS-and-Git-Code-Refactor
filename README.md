@@ -21,8 +21,12 @@ The point of this challenge is to improve the codebase by:
  **Check that all links are functioning correctly
  **Consolidating the CSS selectors and properties by using the semantic structure of the HTML elements
  **Add comments before each element or section of the page.
-
-![site preview](./assets/01-html-css-git-homework-demo.png)
+ 
+    ```md
+ 
+    ![site preview](./assets/01-html-css-git-homework-demo.png)
+ 
+    ```
 
 ## Credits
 
