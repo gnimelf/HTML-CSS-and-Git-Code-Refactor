@@ -10,11 +10,6 @@ To test my knowledge on:
 - heading attributes order
 - add concise and discriptive title
 
-## Table of Contents (Optional)
-
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 
 ## Usage
 
@@ -29,7 +24,7 @@ The point of this challenge is to improve the codebase by:
 
 
     ```md
-    ![alt text](Assets/01-html-css-git-homework-demo.png)
+    ![alt text]( HTML-CSS-and-Git-Code-Refactor/Assets/01-html-css-git-homework-demo.png )
     ```
 
 ## Credits
