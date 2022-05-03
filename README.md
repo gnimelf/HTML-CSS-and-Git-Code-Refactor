@@ -27,7 +27,7 @@ The point of this challenge is to improve the codebase by:
  
 ## Credits
 
-I take credit for the refactoring the code, adding accessibility, fixing the links, consolidating, and adding comments to the existing code.
+I take credit for refactoring the code, adding accessibility, fixing the links, consolidating, and adding comments to the existing code.
 
 ## License
 
