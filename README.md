@@ -22,12 +22,10 @@ The point of this challenge is to improve the codebase by:
  **Consolidating the CSS selectors and properties by using the semantic structure of the HTML elements
  **Add comments before each element or section of the page.
  
-    ```md
  
-    ![site preview](./assets/01-html-css-git-homework-demo.png)
- 
-    ```
+  ![site preview](https://github.com/gnimelf/HTML-CSS-and-Git-Code-Refactor/blob/main/Assets/01-html-css-git-homework-demo.png?raw=true)
 
+ 
 ## Credits
 
 I take credit for the refactoring the code, adding accessibility, fixing the links, consolidating, and adding comments to the existing code.
