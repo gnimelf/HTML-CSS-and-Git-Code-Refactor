@@ -23,9 +23,7 @@ The point of this challenge is to improve the codebase by:
  **Add comments before each element or section of the page.
 
 
-    ```md
     ![site preview](./Assets/01-html-css-git-homework-demo.png)
-    ```
 
 ## Credits
 
