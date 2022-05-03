@@ -24,7 +24,7 @@ The point of this challenge is to improve the codebase by:
 
 
     ```md
-    ![alt text]( HTML-CSS-and-Git-Code-Refactor/Assets/01-html-css-git-homework-demo.png )
+    ![site preview](/HTML-CSS-and-Git-Code-Refactor/Assets/01-html-css-git-homework-demo.png)
     ```
 
 ## Credits
